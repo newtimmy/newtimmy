@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @newtimmy
 - 👀 I’m interested in programming, sports, reading and music.
-- 🌱 I’m currently learning HTML, CSS and python.
-- 💞️ I’m looking to collaborate on programming of websites
+- 🌱 I’m currently learning java and python.
+- 💞️ I would like to continuously improve my skills as a software developer
 - 📫 How to reach me: new.timmy@newtimmy.de
 
 <!---
